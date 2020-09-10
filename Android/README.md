@@ -30,7 +30,7 @@ This project is a navigation application that calculates real-time road flooding
 - Android Developer : https://developer.android.com/?hl=ko
 
 ## PPT Screenshots
-<img width="500" src="https://user-images.githubusercontent.com/62741210/92693464-a5212e00-f380-11ea-86a7-ef61b6233b39.PNG">
+<img width="700" src="https://user-images.githubusercontent.com/62741210/92693464-a5212e00-f380-11ea-86a7-ef61b6233b39.PNG">
 <img width="500" src="https://user-images.githubusercontent.com/62741210/92693471-a8b4b500-f380-11ea-9e77-e942d520dcbc.PNG">
 <img width="500" src="https://user-images.githubusercontent.com/62741210/92693488-afdbc300-f380-11ea-926a-d46450b9299d.PNG">
 <img width="500" src="https://user-images.githubusercontent.com/62741210/92693493-b10cf000-f380-11ea-9f69-13c861683683.PNG">
