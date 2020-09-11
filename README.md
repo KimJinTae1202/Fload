@@ -2,6 +2,7 @@
 Big Data Analyzing & Android develop & Web Site develop<br>
 - email address : jintea1202@gmail.com <br>
 - Demo Video : https://youtu.be/O58abrS3Ihw
+- PPT : https://www.slideshare.net/ssuser67d471/clipboards/my-clips
 
 ## Introduction
 This project is a navigation application that calculates real-time road flooding risk index and guides users through safe driving paths.
