@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/searchItem"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="길 안내" />
+    <item
+        android:id="@+id/todayItem"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="안전지수" />
+    <item
+        android:id="@+id/callItem"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="긴급전화" />
+</menu>
